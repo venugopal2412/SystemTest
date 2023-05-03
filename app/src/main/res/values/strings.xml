@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewSystemTest</string>
+    <string name="title_category">Category</string>
+    <string name="title_stores">Stores</string>
+    <string name="title_home">Home</string>
+    <string name="title_nearme">Near Me</string>
+    <string name="title_account">My Account</string>
+</resources>
